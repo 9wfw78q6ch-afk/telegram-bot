@@ -1,0 +1,212 @@
+[
+  {
+    "type": "youtube",
+    "name": "AIDailyBrief",
+    "url": "https://www.youtube.com/@AIDailyBrief/videos",
+    "priority": 4
+  },
+  {
+    "type": "youtube",
+    "name": "AI Explained Official",
+    "url": "https://www.youtube.com/@aiexplained-official/videos",
+    "priority": 4
+  },
+  {
+    "type": "youtube",
+    "name": "mreflow",
+    "url": "https://www.youtube.com/@mreflow/videos",
+    "priority": 3
+  },
+  {
+    "type": "youtube",
+    "name": "Two Minute Papers",
+    "url": "https://www.youtube.com/@TwoMinutePapers/videos",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "MIT Technology Review AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "arXiv cs.AI recent",
+    "url": "https://arxiv.org/list/cs.AI/recent",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "Rowan Cheung",
+    "url": "https://x.com/rowancheung",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "Rohan Paul AI",
+    "url": "https://x.com/rohanpaul_ai",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "Bindu Reddy",
+    "url": "https://x.com/bindureddy",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/tag/artificial-intelligence/",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/artificial-intelligence",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "MarkTechPost AI",
+    "url": "https://www.marktechpost.com/category/artificial-intelligence/",
+    "priority": 2
+  },
+  {
+    "type": "web",
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "DeepLearning.AI The Batch",
+    "url": "https://www.deeplearning.ai/the-batch/",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "OpenAI on X",
+    "url": "https://x.com/OpenAI",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Anthropic on X",
+    "url": "https://x.com/AnthropicAI",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Google DeepMind on X",
+    "url": "https://x.com/GoogleDeepMind",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Microsoft AI on X",
+    "url": "https://x.com/MicrosoftAI",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Meta AI on X",
+    "url": "https://x.com/AIatMeta",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "xAI on X",
+    "url": "https://x.com/xai",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Sam Altman",
+    "url": "https://x.com/sama",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Dario Amodei",
+    "url": "https://x.com/darioamodei",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Demis Hassabis",
+    "url": "https://x.com/demishassabis",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Sundar Pichai",
+    "url": "https://x.com/sundarpichai",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Satya Nadella",
+    "url": "https://x.com/satyanadella",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Elon Musk",
+    "url": "https://x.com/elonmusk",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Andrew Ng",
+    "url": "https://x.com/AndrewYNg",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Andrej Karpathy",
+    "url": "https://x.com/karpathy",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Yann LeCun",
+    "url": "https://x.com/ylecun",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Petr Mára",
+    "url": "https://x.com/PetrMara",
+    "priority": 3
+  }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.mikolassvatos.aidailybrief.watch</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-lc</string>
+    <string>if [[ -x /Users/mikolassvatos/Projects/aidailybrief-watch/.venv/bin/python ]]; then /Users/mikolassvatos/Projects/aidailybrief-watch/.venv/bin/python /Users/mikolassvatos/Projects/aidailybrief-watch/aidailybrief_watch.py; else python3 /Users/mikolassvatos/Projects/aidailybrief-watch/aidailybrief_watch.py; fi</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/mikolassvatos/Projects/aidailybrief-watch</string>
+
+  <key>StartInterval</key>
+  <integer>28800</integer>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/mikolassvatos/Library/Logs/aidailybrief_watch.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/mikolassvatos/Library/Logs/aidailybrief_watch.log</string>
+</dict>
+</plist>

@@ -1,0 +1,163 @@
+[
+  {
+    "type": "youtube",
+    "name": "AIDailyBrief",
+    "url": "https://www.youtube.com/@AIDailyBrief/videos",
+    "priority": 4
+  },
+  {
+    "type": "youtube",
+    "name": "OpenAI",
+    "url": "https://www.youtube.com/@OpenAI/videos",
+    "priority": 4
+  },
+  {
+    "type": "rss",
+    "name": "OpenAI Blog",
+    "url": "https://openai.com/blog/rss.xml",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Tech News",
+    "url": "https://example.com/news",
+    "priority": 1
+  },
+  {
+    "type": "web",
+    "name": "OpenAI on X",
+    "url": "https://x.com/OpenAI",
+    "priority": 4
+  },
+  {
+    "type": "web",
+    "name": "Petr Mára",
+    "url": "https://x.com/PetrMara",
+    "priority": 3
+  },
+  {
+    "type": "web",
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/tag/artificial-intelligence/"
+  },
+  {
+    "type": "web",
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/artificial-intelligence"
+  },
+  {
+    "type": "web",
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/"
+  },
+  {
+    "type": "web",
+    "name": "MarkTechPost AI",
+    "url": "https://www.marktechpost.com/category/artificial-intelligence/"
+  },
+  {
+    "type": "web",
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog"
+  },
+  {
+    "type": "web",
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/"
+  },
+  {
+    "type": "web",
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news"
+  },
+  {
+    "type": "web",
+    "name": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/"
+  },
+  {
+    "type": "web",
+    "name": "DeepLearning.AI The Batch",
+    "url": "https://www.deeplearning.ai/the-batch/"
+  },
+  {
+    "type": "web",
+    "name": "OpenAI on X",
+    "url": "https://x.com/OpenAI"
+  },
+  {
+    "type": "web",
+    "name": "Anthropic on X",
+    "url": "https://x.com/AnthropicAI"
+  },
+  {
+    "type": "web",
+    "name": "Google DeepMind on X",
+    "url": "https://x.com/GoogleDeepMind"
+  },
+  {
+    "type": "web",
+    "name": "Microsoft AI on X",
+    "url": "https://x.com/MicrosoftAI"
+  },
+  {
+    "type": "web",
+    "name": "Meta AI on X",
+    "url": "https://x.com/AIatMeta"
+  },
+  {
+    "type": "web",
+    "name": "xAI on X",
+    "url": "https://x.com/xai"
+  },
+  {
+    "type": "web",
+    "name": "Sam Altman",
+    "url": "https://x.com/sama"
+  },
+  {
+    "type": "web",
+    "name": "Dario Amodei",
+    "url": "https://x.com/darioamodei"
+  },
+  {
+    "type": "web",
+    "name": "Demis Hassabis",
+    "url": "https://x.com/demishassabis"
+  },
+  {
+    "type": "web",
+    "name": "Sundar Pichai",
+    "url": "https://x.com/sundarpichai"
+  },
+  {
+    "type": "web",
+    "name": "Satya Nadella",
+    "url": "https://x.com/satyanadella"
+  },
+  {
+    "type": "web",
+    "name": "Elon Musk",
+    "url": "https://x.com/elonmusk"
+  },
+  {
+    "type": "web",
+    "name": "Andrew Ng",
+    "url": "https://x.com/AndrewYNg"
+  },
+  {
+    "type": "web",
+    "name": "Andrej Karpathy",
+    "url": "https://x.com/karpathy"
+  },
+  {
+    "type": "web",
+    "name": "Yann LeCun",
+    "url": "https://x.com/ylecun"
+  },
+  {
+    "type": "web",
+    "name": "Petr Mára",
+    "url": "https://x.com/PetrMara"
+  }
+]

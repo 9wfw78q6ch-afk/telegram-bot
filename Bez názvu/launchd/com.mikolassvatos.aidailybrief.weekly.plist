@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.mikolassvatos.aidailybrief.weekly</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-lc</string>
+    <string>if [[ -x /Users/mikolassvatos/Projects/aidailybrief-watch/.venv/bin/python ]]; then /Users/mikolassvatos/Projects/aidailybrief-watch/.venv/bin/python /Users/mikolassvatos/Projects/aidailybrief-watch/aidailybrief_watch.py --weekly-report; else python3 /Users/mikolassvatos/Projects/aidailybrief-watch/aidailybrief_watch.py --weekly-report; fi</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/mikolassvatos/Projects/aidailybrief-watch</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key>
+    <integer>1</integer>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/mikolassvatos/Library/Logs/aidailybrief_weekly.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/mikolassvatos/Library/Logs/aidailybrief_weekly.log</string>
+</dict>
+</plist>
